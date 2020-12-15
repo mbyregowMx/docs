@@ -13,6 +13,10 @@ For information on the current status of deployment to Mendix Cloud and any plan
 
 ## 2020
 
+### December 16th, 2020
+
+* We added the ability to fill in certain allowed Custom Environment Variables in a text field beside the dropdown that is currently present while adding or editing Custom Environment Variables in Mendix Cloud v4 environment. This enables customers to test beta features. <br/>For more information on custom environment variables, see [Runtime Tab](https://docs.mendix.com/developerportal/deploy/environments-details#custom-environment-variables) in the *Environment Details* documentation.
+
 ### December 8th, 2020
 
 * We changed the way Log Levels can be set in Mendix Cloud v4.
